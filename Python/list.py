@@ -30,11 +30,12 @@ names.remove("shah")
 
 del names[1:4]  # it is use to remove so many elements
 names.clear()  # make list empty
-#finding the element present in list?
+# finding the element present in listt?
 if "ajit" in names:
     print("yes")
-else: 
+else:
     print("no")
 
-names.index("shah") #give index/position of element it return of first element of two present
-names.count("ajit") #how many time it present
+# give index/position of element it return of first element of two present
+names.index("shah")
+names.count("ajit")  # how many time it present
