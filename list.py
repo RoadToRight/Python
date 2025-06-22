@@ -32,7 +32,7 @@ del names[1:4]  # it is use to remove so many elements
 names.clear()  # make list empty
 # finding the element present in listt?
 if "ajit" in names:
-    print("yes")
+    print("yes") 
 else:
     print("no")
 
